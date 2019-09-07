@@ -1,0 +1,6 @@
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\bin\Debug\XmlNodeMasking.exe.config
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\bin\Debug\XmlNodeMasking.exe
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\bin\Debug\XmlNodeMasking.pdb
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\obj\Debug\XmlNodeMasking.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\obj\Debug\XmlNodeMasking.exe
+C:\Users\Pramod Kanwar\source\repos\XmlNodeMasking\XmlNodeMasking\obj\Debug\XmlNodeMasking.pdb
